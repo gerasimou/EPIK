@@ -1,0 +1,30 @@
+
+[EPIK_Properties]
+#Independent Runs
+RUNS = 2
+
+#Problem name
+PROBLEM_NAME = DPM_R1_service
+
+#Number of Samples
+n = 100000
+
+#Number of variables to learn (2 per distribution)
+NVARS = 2
+
+#GA Population
+POPULATION = 40
+
+#Number of generations
+GENERATIONS = 20
+
+#Folder to store the results
+DATA_DIR = data
+
+#Model type: DTMC/CTMC
+MODEL_TYPE = CTMC
+
+#Conformance level of prior knowledge between R1 and R2
+#0->full conformance, 1->light conformance, 2-> light conflict, 3-> heavy conflict
+CONFORMANCE_LEVEL = 0
+
