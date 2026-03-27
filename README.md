@@ -17,4 +17,4 @@ optimal approximation sets, encoding distributions of unknown model transition p
 
 
 ## Single-objective EPIK
-* Run [EPIK_Single.py](https://github.com/gerasimou/EPIK/blob/main/EPIK_single.py)
+* Run [EPIK_Single.py](https://github.com/gerasimou/EPIK/blob/main/EPIK_single.py) 
